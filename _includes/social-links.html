@@ -118,4 +118,10 @@
             <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.garden %}
+        <a class="link" data-title="{{ site.garden }}" href="{{ site.garden }}" target="_blank">
+            <svg class="icon icon-garden"><use xlink:href="#icon-garden"></use></svg>
+        </a>
+    {% endif %}
 </div>

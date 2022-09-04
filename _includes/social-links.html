@@ -107,15 +107,15 @@
         </a>
     {% endif %}
 
-    {% if site.writing %}
-        <a class="link" data-title="{{ site.writing }}" href="{{ site.writing }}" target="_blank">
-            <svg class="icon icon-writing"><use xlink:href="#icon-writing"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.mastodon %}
         <a class="link" data-title="{{ site.mastodon }}" href="{{ site.mastodon }}" target="_blank">
             <svg class="icon icon-mastodon"><use xlink:href="#icon-mastodon"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.writing %}
+        <a class="link" data-title="{{ site.writing }}" href="{{ site.writing }}" target="_blank">
+            <svg class="icon icon-writing"><use xlink:href="#icon-writing"></use></svg>
         </a>
     {% endif %}
 

@@ -10,4 +10,8 @@ group :jekyll_plugins do
     gem "jekyll-paginate-v2", "~> 2.0"
     gem "html-proofer"
     gem "webrick"
+    gem "faraday-retry"
+    gem "rack"
+    gem "rackup"
+    gem "rack-handlers"
 end

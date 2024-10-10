@@ -1,25 +1,16 @@
+title: Home page of Lin de Huybrecht
 # main text of home
 name: Lin de Huybrecht
 bio: >
   📇 First name: "Lin de", not "Lin" ;-)
   <br>
   <br>
-  📚 PhD student in Creative Natural Language Generation 
-  <br>
-  @ 
-  <br>
-  Vrije Universiteit Brussel
+  📚 PhD student in Creative Natural Language Generation @ Vrije Universiteit Brussel
   <br>
   <br>
-  📜 Master of Applied Sciences and Engineering: 
+  📜 Master of Applied Sciences and Engineering: Computer Science (Artificial Intelligence)
   <br>
-  Computer Science (Artificial Intelligence)
-  <br>
-   🎓 Class of 2022
-  <br>
-  @ 
-  <br>
-  Vrije Universiteit Brussel
+   🎓 Class of 2022 @ Vrije Universiteit Brussel
 
 # twitter summary info
 description: Home page of Lin de Huybrecht
@@ -72,7 +63,7 @@ github: LndH
 # lanyrd: mylanyrd
 #email: myemail@gmail.com
 writing: https://www.stamijtoe.be
-mastodon: https://mastodon.social/@ellendee
+#mastodon: https://mastodon.social/@ellendee
 garden: https://www.garden.lindehuybrecht.com
 
 # authors:

@@ -6,7 +6,7 @@ category: research
 research: true
 author: Lin de Huybrecht
 externalLink: true
-permalink: /flair-rd-2024
+permalink: /flanders-ai-research-day-2024
 published: true
 ---
 # Semantic subcategorisation for creative generation <br/> of light verb constructions

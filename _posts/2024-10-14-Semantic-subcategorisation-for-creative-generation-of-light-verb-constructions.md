@@ -12,9 +12,10 @@ published: true
 # Semantic subcategorisation for creative generation <br/> of light verb constructions
 <details open>
 <summary><h2 style=" display: inline-flex;">Details</h2></summary>
-Lin de Huybrecht (<a href="mailto:lin.de.huybrecht@vub.be">lin.de.huybrecht@vub.be</a>) <br>
+Lin de Huybrecht (<a href="https://www.linkedin.com/in/lin-de-huybrecht/" target="_blank">Add me on LinkedIn</a>) <br>
+<b>E-mail:</b> <a href="mailto:lin.de.huybrecht@vub.be">lin.de.huybrecht@vub.be</a> <br>
 <b>Promotor:</b> Prof. Dr. Dr. Geraint Wiggins <br>
-<b>Affiliation:</b> Computational Creativity Lab, AI Lab Vrije Universiteit Brussel (VUB) <br>
+<b>Affiliation:</b> Computational Creativity Lab, AI Lab Vrije Universiteit Brussel (VUB) <br><br>
 <b>Event:</b> Flanders Artificial Intelligence Program (FLAIR) Research Day 14/10/2024 <br>
 <b>FLAIR info:</b> GC2 (Situated AI), WP3 (Interaction & Cognitive Systems), task 3.1 (Cognitive Architecture and Knowledge Representation), use case: Society: Education & training
 </details>
@@ -69,6 +70,31 @@ If you want to know more about Computational Creativity, here are some important
 </details>
 
 <details>
+    <summary><h2 style=" display: inline-flex;">What are light verb constructions?</h2></summary>
+    Light verb constructions are complex predicates that have a semantically bleached verb.
+<br>
+<br>
+Here are some publications about light verb constructions:
+
+<ul>
+    <li>
+        Wittenberg, E. (2016). With light verb constructions from syntax to concepts (Vol. 7). Universitätsverlag Potsdam. <a href="https://publishup.uni-potsdam.de/frontdoor/index/index/docId/8236" target="_blank">Download</a>
+    </li>
+    <li>
+        Wittenberg, E., & Levy, R. (2017). If you want a quick kiss, make it count: How choice of syntactic construction affects event construal. Journal of memory and language, 94, 254-271. <a href="https://www.sciencedirect.com/science/article/pii/S0749596X16302480" target="_blank">Download</a>
+    </li>
+    <li>
+        Gilquin, G. (2019). Light verb constructions in spoken L2 English: An exploratory cross-sectional study. International Journal of Learner Corpus Research, 5(2), 181-206. <a href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A222403/datastream/PDF_01/view" target="_blank">Download</a>
+    </li>
+</ul>
+</details>
+
+<details>
+    <summary><h2 style=" display: inline-flex;">What is the difference between light verbs, auxiliary verbs and full verbs?</h2></summary>
+    Full verbs carry semantic information in a sense that light verbs do not. Light verbs need (an) additional word(s), usually a noun, to convey meaning. Light verbs are somewhat similar to auxiliary verbs, but do not satisfy the tests for whether or not a verb is an auxiliary verb or not.
+</details>
+
+<details>
 <summary><h2 style=" display: inline-flex;">What are some examples of light verb constructions in Dutch?</h2></summary>
 <ul>
     <li>
@@ -95,20 +121,14 @@ If you want to know more about Computational Creativity, here are some important
 </ul>
 </details>
 
-
-<details>
-    <summary><h2 style=" display: inline-flex;">What is the difference between light verbs, auxiliary verbs and full verbs?</h2></summary>
-    Full verbs carry semantic information in a sense that light verbs do not. Light verbs need (an) additional word(s), usually a noun, to convey meaning. Light verbs are somewhat similar to auxiliary verbs, but do not satisfy the tests for whether or not a verb is an auxiliary verb or not.
-</details>
-
 <details>
     <summary><h2 style=" display: inline-flex;">What is the DisCoCat framework?</h2></summary>
     The DisCoCat (Distributional Compositional Categorical) framework uses category theory (<a href="https://www.jstor.org/stable/1990284" target="_blank">Eilenberg & MacLane, 1945</a>) to represent both
 grammar and semantics and the relation between them. In this framework, sentences are modelled
 by using one category for the semantics of language (e.g., FVect, the category of finite‐dimensional
-vector spaces) and one for the grammar (e.g., a pregroup, Preg, or any other categorial grammar).
+vector spaces) and one for the grammar (e.g., a pregroup, Preg, or any other categorial grammar). <br><br>
 The meanings contained in the semantics space are obtained using distributional methods. The types
-of the categorial grammar for the grammar space can be obtained using a part‐of‐speech‐tagger. The
+of the categorial grammar for the grammar space can be obtained using a part‐of‐speech‐tagger. <br><br> The
 system can compute whether or not consecutive words make up a well‐formed sequence, according
 to pre‐specified types, which may or may not result in grammatical reductions that reduce to
 the sentence type. The key here is that the two categories share a common structure, or in other
@@ -148,6 +168,10 @@ You can read more about DisCoCat here:
     models and n‐gram models (<a href="https://www.cs.ox.ac.uk/people/edward.grefenstette/grefenstettethesis.pdf" target="_blank">Grefenstette, 2013</a>) on word‐sense disambiguation tasks
     and verb disambiguation tasks (<a href="https://qmro.qmul.ac.uk/xmlui/handle/123456789/68505" target="_blank">Wijnholds, 2020</a>).
     </details>
+
+
+Anything you want to discuss? Get in touch with me through <a href="https://www.linkedin.com/in/lin-de-huybrecht/" target="_blank">LinkedIn</a> or via
+<a href="mailto:lin.de.huybrecht@vub.be">e-mail</a>.
 
     
 
